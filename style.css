@@ -1,0 +1,26 @@
+body {
+    background-color: lightskyblue;
+}
+  .h1 {
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+  }
+  div{
+    margin-left: 25%;
+    width: 50%;
+  
+  }
+  img {
+    width: 100%;
+    border: 5px solid white;
+  }
+
+  .paragraf {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    
+  }
